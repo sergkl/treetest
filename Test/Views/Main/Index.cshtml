@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test application</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+    <div id="mainContainer">
+        <p>
+            <input id="categoryIdTextBox" type="text" />
+            <button id="showResultsForFirstTest" type="button">Show category</button>
+        </p>
+
+        <p>
+            <input id="levelDepthTextBox" type="text" />
+            <button id="showResultsForSecondTest" type="button">Show category ids by level</button>
+        </p>
+
+        <div id="results"></div>
+
+    </div>
+
+    <script src="~/Scripts/jquery.js" type="text/javascript"></script>
+    <script src="~/Scripts/main.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#mainContainer').main({
+                getCategoryUrl: '@Url.Action("GetCategory")',
+                getCategoryIdsByLevelUrl: '@Url.Action("GetCategoryIdsByLevel")'
+            });
+        });
+    </script>
+</body>
+</html>

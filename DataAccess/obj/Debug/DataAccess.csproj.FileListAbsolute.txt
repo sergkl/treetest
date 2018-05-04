@@ -1,0 +1,8 @@
+C:\Users\s-klyuyev\Documents\Projects\Test\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\s-klyuyev\Documents\Projects\Test\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\s-klyuyev\Documents\Projects\Test\DataAccess\bin\Debug\Models.dll
+C:\Users\s-klyuyev\Documents\Projects\Test\DataAccess\bin\Debug\Models.pdb
+C:\Users\s-klyuyev\Documents\Projects\Test\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\s-klyuyev\Documents\Projects\Test\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\s-klyuyev\Documents\Projects\Test\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\s-klyuyev\Documents\Projects\Test\DataAccess\obj\Debug\DataAccess.pdb

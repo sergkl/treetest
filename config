@@ -1,0 +1,10 @@
+[core]
+	bare = true
+	repositoryformatversion = 0
+	filemode = false
+	symlinks = false
+	ignorecase = true
+[remote "treetest"]
+	url = https://github.com/sergkl/treetest.git
+	fetch = +refs/heads/*:refs/remotes/treetest/*
+	pushurl = git@github.com:sergkl/treetest.git

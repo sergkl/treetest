@@ -1,0 +1,6 @@
+C:\Users\s-klyuyev\Documents\Projects\Test\Models\bin\Debug\Models.dll
+C:\Users\s-klyuyev\Documents\Projects\Test\Models\bin\Debug\Models.pdb
+C:\Users\s-klyuyev\Documents\Projects\Test\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\s-klyuyev\Documents\Projects\Test\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\s-klyuyev\Documents\Projects\Test\Models\obj\Debug\Models.dll
+C:\Users\s-klyuyev\Documents\Projects\Test\Models\obj\Debug\Models.pdb
